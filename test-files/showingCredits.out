@@ -1,0 +1,35 @@
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> 3
+----------------------------------
+Name: Vincent Tso
+Student ID: S3855073
+Email: S3855073@student.rmit.edu.au
+
+Name: Justin John
+Student ID: S3846390
+Email: S3846390@student.rmit.edu.au
+
+Name: Kartik Kumar
+Student ID: S3788894
+Email: S3788894@student.rmit.edu.au
+
+Name: Anne Maria Sunil
+Student ID: S3820057
+Email: S3820057@student.rmit.edu.au
+----------------------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> 4
+
+Goodbye

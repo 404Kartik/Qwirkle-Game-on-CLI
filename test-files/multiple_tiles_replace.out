@@ -1,0 +1,165 @@
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> 1
+Enter a name for player 1 (uppercase characters only)
+> KARTIK
+
+Enter a name for player 2 (uppercase characters only)
+> PARKHAR
+
+
+KARTIK, it's your turn
+Score for KARTIK: 0
+Score for PARKHAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+P3,P6,R1,G6,G4,G5
+
+> place P3 P6 at D3 D4
+You entered: place P3 P6 at D3 D4
+
+PARKHAR, it's your turn
+Score for KARTIK: 3
+Score for PARKHAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |P3|P6|  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+B3,B4,R4,R6,G6,R5
+
+> replace P3
+You do not have this tile in your hand.
+
+
+PARKHAR, it's your turn
+Score for KARTIK: 3
+Score for PARKHAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |P3|P6|  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+B3,B4,R4,R6,G6,R5
+
+> replace P6
+You do not have this tile in your hand.
+
+
+PARKHAR, it's your turn
+Score for KARTIK: 3
+Score for PARKHAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |P3|P6|  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+B3,B4,R4,R6,G6,R5
+
+> place R6 G6  E4 F4
+You entered: place R6 G6  E4 F4
+
+KARTIK, it's your turn
+Score for KARTIK: 3
+Score for PARKHAR: 5
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |P3|P6|  |  |  |  |  |  |  |  |
+E |  |  |  |  |R6|  |  |  |  |  |  |  |  |
+F |  |  |  |  |G6|  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+R1,G6,G4,G5,R1,R2
+
+> replace G6
+You entered: replace G6
+
+PARKHAR, it's your turn
+Score for KARTIK: 3
+Score for PARKHAR: 5
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |P3|P6|  |  |  |  |  |  |  |  |
+E |  |  |  |  |R6|  |  |  |  |  |  |  |  |
+F |  |  |  |  |G6|  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+B3,B4,R4,R5,R3,R4
+
+> 

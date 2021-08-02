@@ -1,0 +1,126 @@
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> 1
+Enter a name for player 1 (uppercase characters only)
+> KARTIK
+
+Enter a name for player 2 (uppercase characters only)
+> PARKHAR
+
+
+KARTIK, it's your turn
+Score for KARTIK: 0
+Score for PARKHAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+O2,R6,G3,R2,P1,G1
+
+> place O2 R2 at D3 D4
+You entered: place O2 R2 at D3 D4
+
+PARKHAR, it's your turn
+Score for KARTIK: 3
+Score for PARKHAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |O2|R2|  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+G2,G1,O5,Y5,P1,O4
+
+> place O5 Y5 at E3 E2
+You entered: place O5 Y5 at E3 E2
+
+KARTIK, it's your turn
+Score for KARTIK: 3
+Score for PARKHAR: 4
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |O2|R2|  |  |  |  |  |  |  |  |
+E |  |  |Y5|O5|  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+R6,G3,P1,G1,R1,R3
+
+> save Game2
+
+Game has been succesfully saved.
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> 3
+
+----------------------------------
+Name: Vincent Tso
+Student ID: S3855073
+Email: S3855073@student.rmit.edu.au
+
+Name: Justin John
+Student ID: S3846390
+Email: S3846390@student.rmit.edu.au
+
+Name: Kartik Kumar
+Student ID: S3788894
+Email: S3788894@student.rmit.edu.au
+
+Name: Anne Maria Sunil
+Student ID: S3820057
+Email: S3820057@student.rmit.edu.au
+----------------------------------
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+>   

@@ -1,0 +1,89 @@
+(base) kartikkumar@Kartiks-MacBook-Pro starter_code % ./qwirkle
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> 1
+Enter a name for player 1 (uppercase characters only)
+> KARTIK
+
+Enter a name for player 2 (uppercase characters only)
+> PARKHAR
+
+
+KARTIK, it's your turn
+Score for KARTIK: 0
+Score for PARKHAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+G1,B6,R5,R4,G3,G3
+
+> place R4 R5 at D5 D6
+You entered: place R4 R5 at D5 D6
+
+PARKHAR, it's your turn
+Score for KARTIK: 3
+Score for PARKHAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |R4|R5|  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+B1,P3,Y5,G4,B6,G6
+
+> place Y5 G4 at E6 E5
+You entered: place Y5 G4 at E6 E5
+
+KARTIK, it's your turn
+Score for KARTIK: 3
+Score for PARKHAR: 5
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |R4|R5|  |  |  |  |  |  |
+E |  |  |  |  |  |G4|Y5|  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+G1,B6,G3,G3,R1,R2
+
+>

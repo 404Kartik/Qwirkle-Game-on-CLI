@@ -1,0 +1,138 @@
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> 1
+Enter a name for player 1 (uppercase characters only)
+> KARTIK
+
+Enter a name for player 2 (uppercase characters only)
+> KUMAR
+
+
+KARTIK, it's your turn
+Score for KARTIK: 0
+Score for KUMAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+R1,R5,Y2,G3,P1,R4
+
+> place R1 R5 at D3 D4
+You entered: place R1 R5 at D3 D4
+
+KUMAR, it's your turn
+Score for KARTIK: 3
+Score for KUMAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |R1|R5|  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+B4,O6,B4,O3,G2,R5
+
+> replace R5
+You entered: replace R5
+
+KARTIK, it's your turn
+Score for KARTIK: 3
+Score for KUMAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |R1|R5|  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+Y2,G3,P1,R4,R2,R3
+
+> place P1 R3 at C3 D5
+You entered: place P1 R3 at C3 D5
+
+KUMAR, it's your turn
+Score for KARTIK: 8
+Score for KUMAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |P1|  |  |  |  |  |  |  |  |  |
+D |  |  |  |R1|R5|R3|  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+B4,O6,B4,O3,G2,R6
+
+> place R6 O6 O3 at D6 E6 E7
+You entered: place R6 O6 O3 at D6 E6 E7
+
+KARTIK, it's your turn
+Score for KARTIK: 8
+Score for KUMAR: 8
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |P1|  |  |  |  |  |  |  |  |  |
+D |  |  |  |R1|R5|R3|R6|  |  |  |  |  |  |
+E |  |  |  |  |  |  |O6|O3|  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+Y2,G3,R4,R2,O1,O2
+
+> 

@@ -1,0 +1,113 @@
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> 1
+Enter a name for player 1 (uppercase characters only)
+> KARTIK
+
+Enter a name for player 2 (uppercase characters only)
+> KUMAR
+
+
+KARTIK, it's your turn
+Score for KARTIK: 0
+Score for KUMAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+R5,P2,B1,O6,G5,Y3
+
+> help  
+<===================================================================================================>
+
+         Introduction 
+
+The abstract game of Qwirkle consists of 108 wooden blocks with 
+six different shapes in six different colors. 
+There is no board, players simply use an available flat surface. 
+Players begin the game with six blocks. The start player places blocks of a single 
+matching attribute (color or shape but not both) on the table. Thereafter, 
+a player adds blocks adjacent to at least one previously played block. 
+The blocks must all be played in a line and match, without duplicates, 
+either the color or shape of the previous block.
+ 
+To place a single tile use the following syntax : 
+         place <tile> at <grid location>  
+Note : tile name and grid location must be in Uppercase
+
+To place multiple tiles use the following syntax : 
+         place <tile> <tile> <tile> ... at <grid location> <grid location> <grid location>... 
+Note : The tile location must map with the grid location & maximum 6 tiles can be placed at once
+
+         Adding Tiles 
+
+All tiles must connect to the grid and form a line of two or more tiles.
+A line is either all one shape or all one color.
+Tiles that are added to a line must share the same attribute as the tiles that are already in that line.
+You may play multiple tiles on your turn as long as all tiles played are
+the same color or the same shape and are placed in the same line.
+You cannot play two tiles that are exactly the same.
+At least one of the tiles you play must touch (side to side) a tile
+that has already been played and match the tile in color or shape.
+Any tiles that touch each other are part of a line.
+Lines are either all one shape or all one color, without any duplicates.
+
+         Replace tile 
+
+To replace a tile follow the command:
+         replace <tile>  
+
+         Saving a file
+
+To Save a file follow the command:
+         save <filename>  
+Note: You dont have to put any extensions
+         Scoring 
+
+When you create a line, you score one point for each tile in that
+line (including the tiles that already existed on the grid).
+ When a tile is part of two different lines, it will score 2 points.
+You score 6 bonus points whenever you complete a line of 6 tiles, which is called a Qwirkle.
+<===================================================================================================>
+
+KARTIK, it's your turn
+Score for KARTIK: 0
+Score for KUMAR: 0
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |  |  |  |  |  |  |  |  |  |  |
+E |  |  |  |  |  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+R5,P2,B1,O6,G5,Y3
+
+> 

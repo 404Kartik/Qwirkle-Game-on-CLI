@@ -1,0 +1,64 @@
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. Quit
+
+> 2
+
+Enter the filename from which to load a game
+> Game2
+2
+9
+16
+23
+
+KARTIK, it's your turn
+Score for KARTIK: 3
+Score for PARKHAR: 4
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |  |  |  |  |  |  |  |  |  |
+B |  |  |  |  |  |  |  |  |  |  |  |  |  |
+C |  |  |  |  |  |  |  |  |  |  |  |  |  |
+D |  |  |  |O2|R2|  |  |  |  |  |  |  |  |
+E |  |  |Y5|O5|  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+R6,G3,P1,G1,R1,R3
+
+> place R6 R1 R3 at C4 B4 A4
+You entered: place R6 R1 R3 at C4 B4 A4
+
+PARKHAR, it's your turn
+Score for KARTIK: 12
+Score for PARKHAR: 4
+   0  1  2  3  4  5  6  7  8  9  10  11  12
+   ---------------------------------------
+A |  |  |  |  |R3|  |  |  |  |  |  |  |  |
+B |  |  |  |  |R1|  |  |  |  |  |  |  |  |
+C |  |  |  |  |R6|  |  |  |  |  |  |  |  |
+D |  |  |  |O2|R2|  |  |  |  |  |  |  |  |
+E |  |  |Y5|O5|  |  |  |  |  |  |  |  |  |
+F |  |  |  |  |  |  |  |  |  |  |  |  |  |
+G |  |  |  |  |  |  |  |  |  |  |  |  |  |
+H |  |  |  |  |  |  |  |  |  |  |  |  |  |
+I |  |  |  |  |  |  |  |  |  |  |  |  |  |
+J |  |  |  |  |  |  |  |  |  |  |  |  |  |
+K |  |  |  |  |  |  |  |  |  |  |  |  |  |
+L |  |  |  |  |  |  |  |  |  |  |  |  |  |
+M |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+Your hand is
+G2,G1,P1,O4,R4,R5
+
+> 

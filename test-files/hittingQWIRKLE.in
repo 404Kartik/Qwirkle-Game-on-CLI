@@ -1,0 +1,11 @@
+2
+testCaseTileControlledGeneration
+place O2 at C1
+place O5 at D1
+place R2 at C2
+replace R4
+place B2 at C3
+replace G3
+place O3 at E1
+place O1 at B1
+place O6 at A1
